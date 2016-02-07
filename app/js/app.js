@@ -18,7 +18,7 @@
             .when('/licoreria/:id', {
                 templateUrl: '/angular-bear/app/templates/detail.html'
             });
-     $locationProvider.html5Mode(false);
+     $locationProvider.html5Mode(true);
     });
 
 })();
