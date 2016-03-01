@@ -1,0 +1,22 @@
+{
+  "name": "angular-beer",
+  "homepage": "https://github.com/macs03/angular-beer",
+  "authors": [
+    "Miguel Cárdenas <miguelcarde.3@gmail.com>"
+  ],
+  "description": "Finder to lico marker that you are looking for",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

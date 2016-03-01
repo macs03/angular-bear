@@ -1,0 +1,102 @@
+{
+  "licorerias": {
+    "1": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "2": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "3": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "4": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "5": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "6": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    },
+    "7": {
+      "nombre": "",
+      "descripcion": "",
+      "direccion": "",
+      "cerveza-unidad": "",
+      "cerveza-caja": "",
+      "ron": "",
+      "vodka": "",
+      "cigarros": "",
+      "noche": "true",
+      "horario": "",
+      "punto":"true",
+      "photo": ""
+    }
+  }
+}
