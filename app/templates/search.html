@@ -1,0 +1,11 @@
+<section ng-controller="searchController as search">
+    <input type="text" name="searching" id="searching" placeholder="Buscar Licoreria" ng-model="licoreria">
+
+    <div class="licorerias" ng-cloak ng-show="licoreria">
+        <li class="licoreria" ng-repeat="licoreria in licorerias | filter:licoreria">
+            <strong>Nombre: </strong> <span>{{licoreria.name}}</span>
+            <strong>Cerveza: </strong> <span>{{licoreria.cerveza}}</span>
+            <a href="/app/#/licoreria/{{licoreria.id}}">Detalle</a>
+        </li>
+    </div>
+</section>
